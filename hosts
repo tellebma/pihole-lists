@@ -4,18 +4,7 @@
 # ===============================================================
 
 
-# Snapchat adds. 
+# Snapchat adds. NOT WORKING
 #
 # One thing you should note is this list will also block you from viewing everyone who has seen your stories and it will not update who has seen your story until you join a different network
 #
-0.0.0.0 analytics.snapchat.com
-0.0.0.0 app-analytics.snapchat.com
-0.0.0.0 app-analytics-v2.snapchat.com
-0.0.0.0 snapchat-proxy.appspot.com
-0.0.0.0 bolt-gcdn.sc-cdn.net
-0.0.0.0 gtq6.sct.sc-prod.net
-0.0.0.0 us-east1-aws.api.snapchat.com
-0.0.0.0 usc.adserver.snapads.com
-0.0.0.0 analytics.snapchat.com
-# some reports that prevent them from login.
-0.0.0.0 gcp.api.snapchat.com
